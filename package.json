@@ -1,0 +1,24 @@
+{
+	"name": "tsopany-website",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview"
+	},
+	"dependencies": {
+		"@nuxt/content": "^3.9.0",
+		"@nuxt/eslint": "1.12.1",
+		"@nuxt/ui": "4.3.0",
+		"better-sqlite3": "^12.5.0",
+		"eslint": "^9.39.2",
+		"nuxt": "^4.2.2",
+		"typescript": "^5.9.3"
+	},
+	"packageManager": "pnpm@10.26.1",
+	"devDependencies": {
+		"@iconify-json/lucide": "^1.2.81"
+	}
+}
