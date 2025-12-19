@@ -39,3 +39,5 @@ pnpm preview
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
 https://content.nuxt.com/docs/getting-started/installation
+
+https://ui.nuxt.com/
