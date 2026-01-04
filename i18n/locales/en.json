@@ -1,0 +1,88 @@
+{
+	"nav": {
+		"home": "Home",
+		"about": "About"
+	},
+	"footer": {
+		"tagline": "Modern software development solutions",
+		"quickLinks": "Quick Links",
+		"contact": "Contact",
+		"rights": "All rights reserved."
+	},
+	"home": {
+		"hero": {
+			"title": "Building the Future of Software",
+			"subtitle": "We deliver cutting-edge software solutions that transform businesses and drive innovation",
+			"cta": "Get Started",
+			"ctaSecondary": "Learn More"
+		},
+		"services": {
+			"title": "Our Services",
+			"subtitle": "Comprehensive software development expertise",
+			"webDev": {
+				"title": "Web Development",
+				"description": "Modern, scalable web applications built with the latest technologies"
+			},
+			"cloudSolutions": {
+				"title": "Cloud Solutions",
+				"description": "Enterprise-grade cloud infrastructure and deployment strategies"
+			},
+			"consulting": {
+				"title": "Technical Consulting",
+				"description": "Expert guidance on architecture, technology stack, and best practices"
+			},
+			"mobile": {
+				"title": "Mobile Development",
+				"description": "Native and cross-platform mobile applications for iOS and Android"
+			}
+		},
+		"stats": {
+			"projects": "Projects Completed",
+			"clients": "Happy Clients",
+			"experience": "Years Experience",
+			"satisfaction": "Client Satisfaction"
+		},
+		"cta": {
+			"title": "Ready to Transform Your Business?",
+			"subtitle": "Let's discuss how we can help you achieve your goals",
+			"button": "Contact Us"
+		}
+	},
+	"about": {
+		"hero": {
+			"title": "About Tsopany",
+			"subtitle": "Your trusted partner in software innovation"
+		},
+		"story": {
+			"title": "Our Story",
+			"content": "Founded with a vision to deliver exceptional software solutions, Tsopany has grown into a trusted partner for businesses seeking to leverage technology for growth. Our team of experienced developers, architects, and consultants brings decades of combined expertise to every project."
+		},
+		"mission": {
+			"title": "Our Mission",
+			"content": "To empower businesses through innovative software solutions that are reliable, scalable, and tailored to their unique needs. We believe in building long-term partnerships and delivering value that extends beyond code."
+		},
+		"values": {
+			"title": "Our Values",
+			"excellence": {
+				"title": "Excellence",
+				"description": "We strive for the highest quality in every line of code"
+			},
+			"innovation": {
+				"title": "Innovation",
+				"description": "Constantly exploring new technologies and methodologies"
+			},
+			"integrity": {
+				"title": "Integrity",
+				"description": "Transparent communication and honest partnerships"
+			},
+			"collaboration": {
+				"title": "Collaboration",
+				"description": "Working closely with clients to achieve shared success"
+			}
+		},
+		"team": {
+			"title": "Expert Team",
+			"content": "Our diverse team brings together specialists in full-stack development, cloud architecture, DevOps, mobile development, and technical leadership. We're passionate about technology and committed to continuous learning."
+		}
+	}
+}

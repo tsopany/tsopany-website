@@ -4,21 +4,27 @@
 	"type": "module",
 	"scripts": {
 		"build": "nuxt build",
+		"pages": "nuxt build --preset github_pages",
+		"demo": "npx serve .output/public",
+		"deploy": "npx gh-pages --dotfiles -d .output/public",
 		"dev": "nuxt dev",
+		"l": "pnpm up -i -L",
 		"generate": "nuxt generate",
 		"preview": "nuxt preview"
 	},
 	"dependencies": {
-		"@nuxt/content": "^3.9.0",
+		"@nuxt/content": "^3.10.0",
 		"@nuxt/eslint": "1.12.1",
 		"@nuxt/ui": "4.3.0",
+		"@nuxtjs/i18n": "^10.2.1",
 		"better-sqlite3": "^12.5.0",
 		"eslint": "^9.39.2",
 		"nuxt": "^4.2.2",
 		"typescript": "^5.9.3"
 	},
 	"devDependencies": {
-		"@iconify-json/lucide": "^1.2.81"
+		"@iconify-json/lucide": "^1.2.82",
+		"@tailwindcss/postcss": "^4.1.18"
 	},
 	"packageManager": "pnpm@10.27.0"
 }

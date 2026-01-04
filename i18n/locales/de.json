@@ -1,0 +1,88 @@
+{
+	"nav": {
+		"home": "Startseite",
+		"about": "Über uns"
+	},
+	"footer": {
+		"tagline": "Moderne Softwareentwicklungslösungen",
+		"quickLinks": "Schnelllinks",
+		"contact": "Kontakt",
+		"rights": "Alle Rechte vorbehalten."
+	},
+	"home": {
+		"hero": {
+			"title": "Die Zukunft der Software gestalten",
+			"subtitle": "Wir liefern modernste Softwarelösungen, die Unternehmen transformieren und Innovation vorantreiben",
+			"cta": "Loslegen",
+			"ctaSecondary": "Mehr erfahren"
+		},
+		"services": {
+			"title": "Unsere Dienstleistungen",
+			"subtitle": "Umfassende Expertise in der Softwareentwicklung",
+			"webDev": {
+				"title": "Webentwicklung",
+				"description": "Moderne, skalierbare Webanwendungen mit neuesten Technologien"
+			},
+			"cloudSolutions": {
+				"title": "Cloud-Lösungen",
+				"description": "Cloud-Infrastruktur und Deployment-Strategien auf Unternehmensniveau"
+			},
+			"consulting": {
+				"title": "Technische Beratung",
+				"description": "Expertenrat zu Architektur, Technologie-Stack und Best Practices"
+			},
+			"mobile": {
+				"title": "Mobile Entwicklung",
+				"description": "Native und plattformübergreifende mobile Apps für iOS und Android"
+			}
+		},
+		"stats": {
+			"projects": "Abgeschlossene Projekte",
+			"clients": "Zufriedene Kunden",
+			"experience": "Jahre Erfahrung",
+			"satisfaction": "Kundenzufriedenheit"
+		},
+		"cta": {
+			"title": "Bereit, Ihr Unternehmen zu transformieren?",
+			"subtitle": "Lassen Sie uns besprechen, wie wir Ihnen helfen können, Ihre Ziele zu erreichen",
+			"button": "Kontaktieren Sie uns"
+		}
+	},
+	"about": {
+		"hero": {
+			"title": "Über Tsopany",
+			"subtitle": "Ihr vertrauenswürdiger Partner für Software-Innovation"
+		},
+		"story": {
+			"title": "Unsere Geschichte",
+			"content": "Mit der Vision, außergewöhnliche Softwarelösungen zu liefern, hat sich Tsopany zu einem vertrauenswürdigen Partner für Unternehmen entwickelt, die Technologie für Wachstum nutzen möchten. Unser Team aus erfahrenen Entwicklern, Architekten und Beratern bringt jahrzehntelange kombinierte Expertise in jedes Projekt ein."
+		},
+		"mission": {
+			"title": "Unsere Mission",
+			"content": "Unternehmen durch innovative Softwarelösungen zu stärken, die zuverlässig, skalierbar und auf ihre individuellen Bedürfnisse zugeschnitten sind. Wir glauben an langfristige Partnerschaften und die Lieferung von Mehrwert, der über Code hinausgeht."
+		},
+		"values": {
+			"title": "Unsere Werte",
+			"excellence": {
+				"title": "Exzellenz",
+				"description": "Wir streben nach höchster Qualität in jeder Codezeile"
+			},
+			"innovation": {
+				"title": "Innovation",
+				"description": "Ständige Erforschung neuer Technologien und Methoden"
+			},
+			"integrity": {
+				"title": "Integrität",
+				"description": "Transparente Kommunikation und ehrliche Partnerschaften"
+			},
+			"collaboration": {
+				"title": "Zusammenarbeit",
+				"description": "Enge Zusammenarbeit mit Kunden für gemeinsamen Erfolg"
+			}
+		},
+		"team": {
+			"title": "Expertenteam",
+			"content": "Unser vielfältiges Team vereint Spezialisten in Full-Stack-Entwicklung, Cloud-Architektur, DevOps, mobiler Entwicklung und technischer Führung. Wir sind leidenschaftlich für Technologie und dem kontinuierlichen Lernen verpflichtet."
+		}
+	}
+}

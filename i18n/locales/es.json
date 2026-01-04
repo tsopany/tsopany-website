@@ -1,0 +1,88 @@
+{
+	"nav": {
+		"home": "Inicio",
+		"about": "Acerca de"
+	},
+	"footer": {
+		"tagline": "Soluciones modernas de desarrollo de software",
+		"quickLinks": "Enlaces Rápidos",
+		"contact": "Contacto",
+		"rights": "Todos los derechos reservados."
+	},
+	"home": {
+		"hero": {
+			"title": "Construyendo el Futuro del Software",
+			"subtitle": "Entregamos soluciones de software de vanguardia que transforman negocios e impulsan la innovación",
+			"cta": "Comenzar",
+			"ctaSecondary": "Saber Más"
+		},
+		"services": {
+			"title": "Nuestros Servicios",
+			"subtitle": "Experiencia integral en desarrollo de software",
+			"webDev": {
+				"title": "Desarrollo Web",
+				"description": "Aplicaciones web modernas y escalables con las últimas tecnologías"
+			},
+			"cloudSolutions": {
+				"title": "Soluciones en la Nube",
+				"description": "Infraestructura y estrategias de implementación en la nube de nivel empresarial"
+			},
+			"consulting": {
+				"title": "Consultoría Técnica",
+				"description": "Orientación experta en arquitectura, stack tecnológico y mejores prácticas"
+			},
+			"mobile": {
+				"title": "Desarrollo Móvil",
+				"description": "Aplicaciones móviles nativas y multiplataforma para iOS y Android"
+			}
+		},
+		"stats": {
+			"projects": "Proyectos Completados",
+			"clients": "Clientes Satisfechos",
+			"experience": "Años de Experiencia",
+			"satisfaction": "Satisfacción del Cliente"
+		},
+		"cta": {
+			"title": "¿Listo para Transformar tu Negocio?",
+			"subtitle": "Hablemos sobre cómo podemos ayudarte a alcanzar tus objetivos",
+			"button": "Contáctanos"
+		}
+	},
+	"about": {
+		"hero": {
+			"title": "Acerca de Tsopany",
+			"subtitle": "Tu socio de confianza en innovación de software"
+		},
+		"story": {
+			"title": "Nuestra Historia",
+			"content": "Fundada con la visión de entregar soluciones de software excepcionales, Tsopany se ha convertido en un socio de confianza para empresas que buscan aprovechar la tecnología para crecer. Nuestro equipo de desarrolladores, arquitectos y consultores experimentados aporta décadas de experiencia combinada a cada proyecto."
+		},
+		"mission": {
+			"title": "Nuestra Misión",
+			"content": "Empoderar a las empresas a través de soluciones de software innovadoras que sean confiables, escalables y adaptadas a sus necesidades únicas. Creemos en construir asociaciones a largo plazo y entregar valor que va más allá del código."
+		},
+		"values": {
+			"title": "Nuestros Valores",
+			"excellence": {
+				"title": "Excelencia",
+				"description": "Nos esforzamos por la más alta calidad en cada línea de código"
+			},
+			"innovation": {
+				"title": "Innovación",
+				"description": "Explorando constantemente nuevas tecnologías y metodologías"
+			},
+			"integrity": {
+				"title": "Integridad",
+				"description": "Comunicación transparente y asociaciones honestas"
+			},
+			"collaboration": {
+				"title": "Colaboración",
+				"description": "Trabajando estrechamente con los clientes para lograr el éxito compartido"
+			}
+		},
+		"team": {
+			"title": "Equipo Experto",
+			"content": "Nuestro equipo diverso reúne especialistas en desarrollo full-stack, arquitectura en la nube, DevOps, desarrollo móvil y liderazgo técnico. Nos apasiona la tecnología y estamos comprometidos con el aprendizaje continuo."
+		}
+	}
+}
