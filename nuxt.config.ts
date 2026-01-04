@@ -3,6 +3,12 @@ export default defineNuxtConfig({
 	devServer: {
 		port: 4000
 	},
+	app: {
+		// IMPORTANT: Set this to '/' (or remove it).
+		// Do NOT keep '/tsopany-website/' when using a custom domain.
+		baseURL: '/'
+	},
+	nitro: {preset: 'github_pages'},
 	modules: ['@nuxt/ui', '@nuxt/eslint', '@nuxtjs/i18n'],
 	css: ['./app/assets/css/main.css'],
 	devtools: {enabled: true},
